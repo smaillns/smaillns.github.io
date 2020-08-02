@@ -369,9 +369,9 @@ p {
   -webkit-transition: all 0.9s cubic-bezier(0.19, 1, 0.22, 1) 0s;
   transition: all 0.9s cubic-bezier(0.19, 1, 0.22, 1) 0s; }
   .content-block .person-img {
-    height: 150px;
-    width: 150px;
-    background: url(../img/smail.png);
+    height: 90px;
+    width: 180px;
+    background: url(../img/smail_photo.jpeg);
     border-radius: 50%;
     background-repeat: no-repeat;
     background-size: cover; }
